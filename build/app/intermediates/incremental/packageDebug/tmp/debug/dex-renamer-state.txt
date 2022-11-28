@@ -1,0 +1,4 @@
+#Mon Nov 28 13:57:07 IST 2022
+base.0=E\:\\EDUCATION\\NDT\\4th sem\\Project II\\Login page\\login_page\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
